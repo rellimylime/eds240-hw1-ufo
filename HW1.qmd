@@ -1,11 +1,13 @@
 ---
 title: "HW #1"
-subtitle: "Interpreting `{ggplot2}` code"
+subtitle: "Interpreting {ggplot2} code"
 description: "Assigned Wed 01/07/2026 | Due Wed 01/14/2026"
 author: "Emily Miller"
+format:
+  pdf:
+    toc: true
 code-line-numbers: true
-toc: true
-editor_options: 
+editor_options:
   chunk_output_type: console
 ---
 
